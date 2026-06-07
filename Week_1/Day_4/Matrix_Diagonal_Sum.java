@@ -11,4 +11,8 @@ class Solution {
         return sum;
         
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 435e58d (OOPS SOLUTION)
